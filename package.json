@@ -1,0 +1,21 @@
+{
+  "name": "hello-kotlinjs",
+  "version": "1.0.0",
+  "description": "Where I learn KotlinJS",
+  "main": "node/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sei40kr/hello-kotlinjs.git"
+  },
+  "author": "Seong Yong-ju",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sei40kr/hello-kotlinjs/issues"
+  },
+  "homepage": "https://github.com/sei40kr/hello-kotlinjs#readme",
+  "devDependencies": {
+  }
+}
